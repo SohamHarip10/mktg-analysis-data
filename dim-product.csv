@@ -1,0 +1,11 @@
+﻿product_category,product_key,product_name,product_price,profit_margin
+Accessories,PRD008,Phone Case,29.99,0.6
+Accessories,PRD009,Portable Charger,49.99,0.55
+Accessories,PRD010,Screen Protector,19.99,0.65
+Audio,PRD002,Wireless Earbuds,149.99,0.45
+Audio,PRD007,Bluetooth Speaker,79.99,0.42
+Electronics,PRD001,Premium Laptop,1299.99,0.35
+Electronics,PRD004,Tablet Pro,899.99,0.38
+Gaming,PRD005,Gaming Console,499.99,0.3
+Wearables,PRD003,Smart Watch,399.99,0.4
+Wearables,PRD006,Fitness Tracker,99.99,0.5

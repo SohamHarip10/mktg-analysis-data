@@ -1,0 +1,9 @@
+﻿city,country,geography_key,population,region,state_province
+Chicago,USA,GEO004,2700000,Midwest,Illinois
+Houston,USA,GEO003,2300000,South,Texas
+London,UK,GEO007,9000000,London,Greater London
+Los Angeles,USA,GEO001,4000000,West,California
+Manchester,UK,GEO008,550000,Manchester,Greater Manchester
+New York City,USA,GEO002,8400000,East,New York
+Toronto,Canada,GEO005,2900000,Ontario,Ontario
+Vancouver,Canada,GEO006,675000,British Columbia,BC
