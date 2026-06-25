@@ -1,0 +1,9 @@
+﻿city,country,geography_key,population,region,state_province,LOAD_TIMESTAMP
+Chicago,USA,GEO004,2700000,Midwest,Illinois,20-06-2026 10:00
+Houston,USA,GEO003,2300000,South,Texas,20-06-2026 10:00
+London,UK,GEO007,9000000,London,Greater London,20-06-2026 10:00
+Los Angeles,USA,GEO001,4000000,West,California,20-06-2026 10:00
+Manchester,UK,GEO008,550000,Manchester,Greater Manchester,20-06-2026 10:00
+New York City,USA,GEO002,8400000,East,New York,20-06-2026 10:00
+Toronto,Canada,GEO005,2900000,Ontario,Ontario,20-06-2026 10:00
+Vancouver,Canada,GEO006,675000,British Columbia,BC,20-06-2026 10:00

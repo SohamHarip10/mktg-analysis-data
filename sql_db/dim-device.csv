@@ -1,0 +1,4 @@
+﻿avg_session_duration,device_key,device_type,os_family,LOAD_TIMESTAMP
+180,DEV002,Mobile,iOS/Android,20-06-2026 10:00
+240,DEV003,Tablet,iOS/Android,20-06-2026 10:00
+420,DEV001,Desktop,Windows/Mac,20-06-2026 10:00

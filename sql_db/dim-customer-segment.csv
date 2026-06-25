@@ -1,0 +1,6 @@
+﻿age_range,income_bracket,lifetime_value_avg,segment_key,segment_name,LOAD_TIMESTAMP
+18-24,<$30k,800,SEG002,Students,20-06-2026 10:00
+25-35,$50k-$100k,2500,SEG001,Young Professionals,20-06-2026 10:00
+30-55,$60k-$200k,8000,SEG005,Small Business,20-06-2026 10:00
+35-50,$75k-$150k,4500,SEG003,Families,20-06-2026 10:00
+60+,$40k-$80k,1800,SEG004,Seniors,20-06-2026 10:00

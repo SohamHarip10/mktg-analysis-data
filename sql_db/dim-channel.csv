@@ -1,0 +1,9 @@
+﻿Channel Name Short,channel_key,channel_name,channel_type,cost_per_click_avg,LOAD_TIMESTAMP
+Display Ads,CH006,Display Ads,Display,0.85,20-06-2026 10:00
+Email,CH005,Email Marketing,Email,0.1,20-06-2026 10:00
+Facebook,CH002,Facebook Ads,Social Media,1.2,20-06-2026 10:00
+Google,CH001,Google Ads,Paid Search,2.5,20-06-2026 10:00
+Instagram,CH003,Instagram Ads,Social Media,1.35,20-06-2026 10:00
+LinkedIn,CH004,LinkedIn Ads,Social Media,5.8,20-06-2026 10:00
+TikTok,CH008,TikTok Ads,Social Media,0.75,20-06-2026 10:00
+YouTube,CH007,YouTube Ads,Video,0.95,20-06-2026 10:00
